@@ -19,7 +19,7 @@ Creation of a bar chart to visualize the distribution of categorical variables, 
  
 # Report Link (For REFERENCE)
 
-(https://github.com/user-attachments/assets/48a7081d-ede2-4be3-8993-a3f18e31bc48)
+(https://github.com/user-attachments/assets/48a7081d-ede2-4be3-8993-a3f)
 
 
 
